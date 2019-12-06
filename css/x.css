@@ -1,0 +1,600 @@
+                                                                                                            body,
+                                                                                                    html {
+                                                                                                        width: 100%;
+                                                                                                        height: 100%;
+                                                                                                        padding: 0;
+                                                                                                        margin: 0;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .Sk {
+                                                                                                        font-size: 23px;
+                                                                                                        color: #17a2b8;
+                                                                                                        padding-top: 0px;
+                                                                                                        padding-right: 0px;
+                                                                                                        padding-bottom: 0px;
+                                                                                                        padding-left: 0px;
+                                                                                                        margin-top: 0px;
+                                                                                                        margin-right: 10px;
+                                                                                                        margin-bottom: 0px;
+                                                                                                        margin-left: 0px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .img {
+                                                                                                        width: 2000px;
+                                                                                                        height: 180px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .graybg {
+                                                                                                        background: #343a40
+                                                                                                    }
+                                                                                                    
+                                                                                                    .herzlichwillkommen {
+                                                                                                        color: white;
+                                                                                                        text-align: center;
+                                                                                                        margin: 15px, 15px, 15px, 15px
+                                                                                                    }
+                                                                                                    
+                                                                                                    .hl {
+                                                                                                        margin-right: 350px;
+                                                                                                        margin-left: 350px;
+                                                                                                        height: 6px;
+                                                                                                        background: #17a2b8;
+                                                                                                        content: ""
+                                                                                                    }
+                                                                                                    
+                                                                                                    .legierung {
+                                                                                                        color: white;
+                                                                                                        text-align: center;
+                                                                                                        margin-top: 15px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .legierung_txt {
+                                                                                                        color: white;
+                                                                                                        margin-right: 20px;
+                                                                                                        padding-right: 20px;
+                                                                                                        margin-left: 20px;
+                                                                                                        padding-left: 20px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .home_einleitung {
+                                                                                                        margin-top: 15px;
+                                                                                                        padding-right: 40px;
+                                                                                                        padding-left: 40px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .input {
+                                                                                                        padding-top: 10px;
+                                                                                                        padding-bottom: 0px;
+                                                                                                        padding-right: 930px;
+                                                                                                        padding-left: 50px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .input2 {
+                                                                                                        padding-top: 10px;
+                                                                                                        padding-bottom: 0px;
+                                                                                                        padding-right: 930px;
+                                                                                                        padding-left: 50px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .blue {
+                                                                                                        color: #17a2b8;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .white {
+                                                                                                        color: white;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .video {
+                                                                                                        margin-top: 40px;
+                                                                                                        margin-bottom: 40px;
+                                                                                                        position: fixed;
+                                                                                                        top: 50%;
+                                                                                                        left: 50%;
+                                                                                                        transform: translate(-50%, -50%);
+                                                                                                    }
+                                                                                                    
+                                                                                                    .video_box {
+                                                                                                        border: 8px solid #17a2b8;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .xvideo {
+                                                                                                        margin-top: 115px;
+                                                                                                        margin-bottom: 40px;
+                                                                                                        position: fixed;
+                                                                                                        top: 50%;
+                                                                                                        left: 50%;
+                                                                                                        transform: translate(-50%, -50%);
+                                                                                                    }
+                                                                                                    
+                                                                                                    .footer {
+                                                                                                        margin-right: 0px;
+                                                                                                        margin-left: 0px;
+                                                                                                        margin-top: 150px;
+                                                                                                        margin-bottom: 0px;
+                                                                                                        padding-top: 0px;
+                                                                                                        padding-bottom: 0px;
+                                                                                                        color: rgba(0, 0, 0, 0.447);
+                                                                                                        background: rgb(0, 0, 0.447);
+                                                                                                        background-color: rgb(0, 0, 0.447);
+                                                                                                    }
+                                                                                                    
+                                                                                                    .linkbutton {
+                                                                                                        margin-top: 25px;
+                                                                                                        margin-left: 550px;
+                                                                                                        margin-right: 490px;
+                                                                                                        padding-right: 60px;
+                                                                                                        padding-left: 60px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .c1 {
+                                                                                                        margin-top: 140px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .c2 {
+                                                                                                        margin-top: 140px;
+                                                                                                        margin-left: 190px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .bild_box {
+                                                                                                        border: 8px solid #17a2b8;
+                                                                                                        height: 170px;
+                                                                                                        width: 260px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .flex-container {
+                                                                                                        display: flex;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .abstand {
+                                                                                                        width: 100%;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .xwpadding {
+                                                                                                        margin-bottom: 20px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .i {
+                                                                                                        border: none;
+                                                                                                        border-radius: none;
+                                                                                                        background-color: #343a40
+                                                                                                    }
+                                                                                                    
+                                                                                                    .mytext {
+                                                                                                        width: 200px;
+                                                                                                        border: none;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .produkte {
+                                                                                                        padding: 0px 0px 0px 100px;
+                                                                                                        margin: 0px 0px 0px 0px;
+                                                                                                        color: #17a2b8;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .lefticonpadding1 {
+                                                                                                        padding-left: 180px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .lefticonpadding2 {
+                                                                                                        padding-left: 165px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .lefticonpadding3 {
+                                                                                                        padding-left: 92px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .nav-side-menu {
+                                                                                                        overflow: auto;
+                                                                                                        font-family: verdana;
+                                                                                                        font-size: 12px;
+                                                                                                        font-weight: 200;
+                                                                                                        background-color: #343a40;
+                                                                                                        position: fixed;
+                                                                                                        top: 233px;
+                                                                                                        width: 300px;
+                                                                                                        height: 100%;
+                                                                                                        color: #e1ffff;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .nav-side-menu .brand {
+                                                                                                        background-color: #343a40;
+                                                                                                        line-height: 50px;
+                                                                                                        display: block;
+                                                                                                        text-align: center;
+                                                                                                        font-size: 14px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .nav-side-menu .toggle-btn {
+                                                                                                        display: none;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .nav-side-menu ul,
+                                                                                                    .nav-side-menu li {
+                                                                                                        list-style: none;
+                                                                                                        padding: 0px;
+                                                                                                        margin: 0px;
+                                                                                                        line-height: 35px;
+                                                                                                        cursor: pointer;
+                                                                                                        /*    
+.collapsed{
+.arrow:before{
+font-family: FontAwesome;
+content: "\f053";
+display: inline-block;
+padding-left:10px;
+padding-right: 10px;
+vertical-align: middle;
+float:right;
+}
+}
+*/
+                                                                                                    }
+                                                                                                    
+                                                                                                    .nav-side-menu ul :not(collapsed) .arrow:before,
+                                                                                                    .nav-side-menu li :not(collapsed) .arrow:before {
+                                                                                                        font-family: FontAwesome;
+                                                                                                        content: "\f078";
+                                                                                                        display: inline-block;
+                                                                                                        padding-left: 10px;
+                                                                                                        padding-right: 10px;
+                                                                                                        vertical-align: middle;
+                                                                                                        float: right;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .nav-side-menu ul .active,
+                                                                                                    .nav-side-menu li .active {
+                                                                                                        border-left: 3px solid #17a2b8;
+                                                                                                        background-color: #4f5b69;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .nav-side-menu ul .sub-menu li.active,
+                                                                                                    .nav-side-menu li .sub-menu li.active {
+                                                                                                        color: #17a2b8;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .nav-side-menu ul .sub-menu li.active a,
+                                                                                                    .nav-side-menu li .sub-menu li.active a {
+                                                                                                        color: #17a2b8;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .nav-side-menu ul .sub-menu li,
+                                                                                                    .nav-side-menu li .sub-menu li {
+                                                                                                        background-color: #181c20;
+                                                                                                        border: none;
+                                                                                                        line-height: 28px;
+                                                                                                        border-bottom: 1px solid #23282e;
+                                                                                                        margin-left: 0px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .nav-side-menu ul .sub-menu li:hover,
+                                                                                                    .nav-side-menu li .sub-menu li:hover {
+                                                                                                        background-color: #020203;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .nav-side-menu ul .sub-menu li:before,
+                                                                                                    .nav-side-menu li .sub-menu li:before {
+                                                                                                        font-family: Fontawesome;
+                                                                                                        content: "\f105";
+                                                                                                        display: inline-block;
+                                                                                                        padding-left: 20px;
+                                                                                                        padding-right: 10px;
+                                                                                                        vertical-align: middle;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .nav-side-menu li {
+                                                                                                        padding-left: 0px;
+                                                                                                        border-left: 3px solid #2e353d;
+                                                                                                        border-bottom: 1px solid #23282e;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .nav-side-menu li a {
+                                                                                                        text-decoration: none;
+                                                                                                        color: #e1ffff;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .nav-side-menu li a i {
+                                                                                                        padding-left: 10px;
+                                                                                                        width: 20px;
+                                                                                                        padding-right: 20px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .nav-side-menu li:hover {
+                                                                                                        border-left: 3px solid #17a2b8;
+                                                                                                        background-color: #4f5b69;
+                                                                                                        -webkit-transition: all 1s ease;
+                                                                                                        -moz-transition: all 1s ease;
+                                                                                                        -o-transition: all 1s ease;
+                                                                                                        -ms-transition: all 1s ease;
+                                                                                                        transition: all 1s ease;
+                                                                                                    }
+                                                                                                    
+                                                                                                    @media (max-width: 767px) {
+                                                                                                        .nav-side-menu {
+                                                                                                            position: relative;
+                                                                                                            width: 100%;
+                                                                                                            margin-bottom: 10px;
+                                                                                                        }
+                                                                                                        .nav-side-menu .toggle-btn {
+                                                                                                            display: block;
+                                                                                                            cursor: pointer;
+                                                                                                            position: absolute;
+                                                                                                            right: 10px;
+                                                                                                            top: 10px;
+                                                                                                            z-index: 10 !important;
+                                                                                                            padding: 3px;
+                                                                                                            background-color: #ffffff;
+                                                                                                            color: #000;
+                                                                                                            width: 40px;
+                                                                                                            text-align: center;
+                                                                                                        }
+                                                                                                        .brand {
+                                                                                                            text-align: left !important;
+                                                                                                            font-size: 22px;
+                                                                                                            padding-left: 20px;
+                                                                                                            line-height: 50px !important;
+                                                                                                        }
+                                                                                                    }
+                                                                                                    
+                                                                                                    @media (min-width: 767px) {
+                                                                                                        .nav-side-menu .menu-list .menu-content {
+                                                                                                            display: block;
+                                                                                                        }
+                                                                                                    }
+                                                                                                    
+                                                                                                    body {
+                                                                                                        margin: 0px;
+                                                                                                        padding: 0px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .nav-side-menu ul .sub-menu ul .sub-line li.active,
+                                                                                                    .nav-side-menu li .sub-menu li .sub-line li.active {
+                                                                                                        color: #17a2b8;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .nav-side-menu ul .sub-menu li .sub-line li.active a,
+                                                                                                    .nav-side-menu li .sub-menu li .sub-line li.active a {
+                                                                                                        color: #17a2b8;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .nav-side-menu ul .sub-menu li .sub-line li,
+                                                                                                    .nav-side-menu li .sub-menu li .sub-line li {
+                                                                                                        background-color: #181c20;
+                                                                                                        border: none;
+                                                                                                        line-height: 28px;
+                                                                                                        border-bottom: 1px solid #23282e;
+                                                                                                        margin-left: 0px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .nav-side-menu ul .sub-menu li .sub-line li:hover,
+                                                                                                    .nav-side-menu li .sub-menu li .sub-line li:hover {
+                                                                                                        background-color: #020203;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .nav-side-menu ul .sub-menu li .sub-line li:before,
+                                                                                                    .nav-side-menu li .sub-menu li .sub-line li:before {
+                                                                                                        font-family: FontAwesome;
+                                                                                                        content: "\f105";
+                                                                                                        display: inline-block;
+                                                                                                        padding-left: 100px;
+                                                                                                        padding-right: 10px;
+                                                                                                        vertical-align: middle;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .nav-side-menu .sub-menu li {
+                                                                                                        padding-left: 20px;
+                                                                                                        border-left: 3px solid #2e353d;
+                                                                                                        border-bottom: 1px solid #23282e;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .nav-side-menu .sub-menu li a {
+                                                                                                        text-decoration: none;
+                                                                                                        color: #e1ffff;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .sub-menu li a i {
+                                                                                                        padding-left: 10px;
+                                                                                                        width: 20px;
+                                                                                                        padding-right: 20px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .nav-side-menu li .sub-menu li:hover {
+                                                                                                        border-left: 3px solid #17a2b8;
+                                                                                                        background-color: #4f5b69;
+                                                                                                        -webkit-transition: all 1s ease;
+                                                                                                        -moz-transition: all 1s ease;
+                                                                                                        -o-transition: all 1s ease;
+                                                                                                        -ms-transition: all 1s ease;
+                                                                                                        transition: all 1s ease;
+                                                                                                    }
+                                                                                                    
+                                                                                                    @media (max-width: 767px) {
+                                                                                                        .nav-side-menu .sub-menu {
+                                                                                                            position: relative;
+                                                                                                            width: 100%;
+                                                                                                            margin-bottom: 10px;
+                                                                                                        }
+                                                                                                        .nav-side-menu .sub-menu .toggle-btn {
+                                                                                                            display: block;
+                                                                                                            cursor: pointer;
+                                                                                                            position: absolute;
+                                                                                                            right: 10px;
+                                                                                                            top: 10px;
+                                                                                                            z-index: 10 !important;
+                                                                                                            padding: 3px;
+                                                                                                            background-color: #ffffff;
+                                                                                                            color: #000;
+                                                                                                            width: 40px;
+                                                                                                            text-align: center;
+                                                                                                        }
+                                                                                                        .sub-line ul .sub-press li.active,
+                                                                                                        .sub-line li .sub-press li.active {
+                                                                                                            color: #17a2b8;
+                                                                                                        }
+                                                                                                        .sub-line ul .sub-press li.active a,
+                                                                                                        .sub-line li .sub-press li.active a {
+                                                                                                            color: #17a2b8;
+                                                                                                        }
+                                                                                                        .sub-line ul .sub-press li,
+                                                                                                        .sub-line li .sub-press li {
+                                                                                                            background-color: #181c20;
+                                                                                                            border: none;
+                                                                                                            line-height: 28px;
+                                                                                                            border-bottom: 1px solid #23282e;
+                                                                                                            margin-left: 0px;
+                                                                                                        }
+                                                                                                        .sub-line ul .sub-press li:hover,
+                                                                                                        .sub-line li .sub-press li:hover {
+                                                                                                            background-color: #020203;
+                                                                                                        }
+                                                                                                        .sub-line ul .sub-press li:before,
+                                                                                                        .sub-line li .sub-press li:before {
+                                                                                                            font-family: Arial;
+                                                                                                            content: "\f105";
+                                                                                                            display: inline-block;
+                                                                                                            padding-left: 50px;
+                                                                                                            padding-right: 10px;
+                                                                                                            vertical-align: middle;
+                                                                                                        }
+                                                                                                        .sub-line li {
+                                                                                                            padding-left: 20px;
+                                                                                                            border-left: 3px solid #2e353d;
+                                                                                                            border-bottom: 1px solid #23282e;
+                                                                                                        }
+                                                                                                        .sub-line li a {
+                                                                                                            text-decoration: none;
+                                                                                                            color: #e1ffff;
+                                                                                                        }
+                                                                                                        .sub-line li a i {
+                                                                                                            padding-left: 50px;
+                                                                                                            width: 20px;
+                                                                                                            padding-right: 20px;
+                                                                                                        }
+                                                                                                        .sub-line li:hover {
+                                                                                                            border-left: 3px solid #d19b3d;
+                                                                                                            background-color: #4f5b69;
+                                                                                                            -webkit-transition: all 1s ease;
+                                                                                                            -moz-transition: all 1s ease;
+                                                                                                            -o-transition: all 1s ease;
+                                                                                                            -ms-transition: all 1s ease;
+                                                                                                            transition: all 1s ease;
+                                                                                                        }
+                                                                                                        @media (max-width: 767px) {
+                                                                                                            .sub-line {
+                                                                                                                position: relative;
+                                                                                                                width: 100%;
+                                                                                                                margin-bottom: 10px;
+                                                                                                            }
+                                                                                                            .sub-line .toggle-btn {
+                                                                                                                display: block;
+                                                                                                                cursor: pointer;
+                                                                                                                position: absolute;
+                                                                                                                right: 10px;
+                                                                                                                top: 10px;
+                                                                                                                z-index: 10 !important;
+                                                                                                                padding: 3px;
+                                                                                                                background-color: #ffffff;
+                                                                                                                color: #000;
+                                                                                                                width: 40px;
+                                                                                                                text-align: center;
+                                                                                                            }
+                                                                                                            .opacity {
+                                                                                                                -webkit-filter: opacity(.6);
+                                                                                                                filter: opacity(.6);
+                                                                                                            }
+                                                                                                            .form-style-5 {
+                                                                                                                max-width: 500px;
+                                                                                                                padding: 10px 20px;
+                                                                                                                background: #f4f7f8;
+                                                                                                                margin: 10px auto;
+                                                                                                                padding: 20px;
+                                                                                                                background: #f4f7f8;
+                                                                                                                border-radius: 8px;
+                                                                                                                font-family: Georgia, "Times New Roman", Times, serif;
+                                                                                                            }
+                                                                                                            .form-style-5 fieldset {
+                                                                                                                border: none;
+                                                                                                            }
+                                                                                                            .form-style-5 legend {
+                                                                                                                font-size: 1.4em;
+                                                                                                                margin-bottom: 10px;
+                                                                                                            }
+                                                                                                            .form-style-5 label {
+                                                                                                                display: block;
+                                                                                                                margin-bottom: 8px;
+                                                                                                            }
+                                                                                                            .form-style-5 input[type="text"],
+                                                                                                            .form-style-5 input[type="date"],
+                                                                                                            .form-style-5 input[type="datetime"],
+                                                                                                            .form-style-5 input[type="email"],
+                                                                                                            .form-style-5 input[type="number"],
+                                                                                                            .form-style-5 input[type="search"],
+                                                                                                            .form-style-5 input[type="time"],
+                                                                                                            .form-style-5 input[type="url"],
+                                                                                                            .form-style-5 textarea,
+                                                                                                            .form-style-5 select {
+                                                                                                                font-family: Georgia, "Times New Roman", Times, serif;
+                                                                                                                background: rgba(255, 255, 255, .1);
+                                                                                                                border: none;
+                                                                                                                border-radius: 4px;
+                                                                                                                font-size: 15px;
+                                                                                                                margin: 0;
+                                                                                                                outline: 0;
+                                                                                                                padding: 10px;
+                                                                                                                width: 100%;
+                                                                                                                box-sizing: border-box;
+                                                                                                                -webkit-box-sizing: border-box;
+                                                                                                                -moz-box-sizing: border-box;
+                                                                                                                background-color: #e8eeef;
+                                                                                                                color: #8a97a0;
+                                                                                                                -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.03) inset;
+                                                                                                                box-shadow: 0 1px 0 rgba(0, 0, 0, 0.03) inset;
+                                                                                                                margin-bottom: 30px;
+                                                                                                            }
+                                                                                                            .form-style-5 input[type="text"]:focus,
+                                                                                                            .form-style-5 input[type="date"]:focus,
+                                                                                                            .form-style-5 input[type="datetime"]:focus,
+                                                                                                            .form-style-5 input[type="email"]:focus,
+                                                                                                            .form-style-5 input[type="number"]:focus,
+                                                                                                            .form-style-5 input[type="search"]:focus,
+                                                                                                            .form-style-5 input[type="time"]:focus,
+                                                                                                            .form-style-5 input[type="url"]:focus,
+                                                                                                            .form-style-5 textarea:focus,
+                                                                                                            .form-style-5 select:focus {
+                                                                                                                background: #d2d9dd;
+                                                                                                            }
+                                                                                                            .form-style-5 select {
+                                                                                                                -webkit-appearance: menulist-button;
+                                                                                                                height: 35px;
+                                                                                                            }
+                                                                                                            .form-style-5 .number {
+                                                                                                                background: #1abc9c;
+                                                                                                                color: #fff;
+                                                                                                                height: 30px;
+                                                                                                                width: 30px;
+                                                                                                                display: inline-block;
+                                                                                                                font-size: 0.8em;
+                                                                                                                margin-right: 4px;
+                                                                                                                line-height: 30px;
+                                                                                                                text-align: center;
+                                                                                                                text-shadow: 0 1px 0 rgba(255, 255, 255, 0.2);
+                                                                                                                border-radius: 15px 15px 15px 0px;
+                                                                                                            }
+                                                                                                            .form-style-5 input[type="submit"],
+                                                                                                            .form-style-5 input[type="button"] {
+                                                                                                                position: relative;
+                                                                                                                display: block;
+                                                                                                                padding: 19px 39px 18px 39px;
+                                                                                                                color: #FFF;
+                                                                                                                margin: 0 auto;
+                                                                                                                background: #1abc9c;
+                                                                                                                font-size: 18px;
+                                                                                                                text-align: center;
+                                                                                                                font-style: normal;
+                                                                                                                width: 100%;
+                                                                                                                border: 1px solid #16a085;
+                                                                                                                border-width: 1px 1px 3px;
+                                                                                                                margin-bottom: 10px;
+                                                                                                            }
+                                                                                                            .form-style-5 input[type="submit"]:hover,
+                                                                                                            .form-style-5 input[type="button"]:hover {
+                                                                                                                background: #109177;
+                                                                                                            }
